@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\PHPInfo;
+namespace Alex\PHPInfo;
 
 use Encore\Admin\Extension;
 
