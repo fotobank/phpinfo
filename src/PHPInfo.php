@@ -44,7 +44,7 @@ class PHPInfo extends Extension
             });
         }
 
-        ob_end_clean();
+        if (ob_get_length()) ob_end_clean();
 
         return collect($phpinfo);
     }
