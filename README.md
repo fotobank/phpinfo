@@ -10,7 +10,7 @@ The laravel-admin version of the `phpinfo()` function, Inspired by [nova-phpinfo
 ## Installation
 
 ```bash
-composer require laravel-admin-ext/phpinfo
+composer require fotobank/phpinfo
 ```
 
 If you want to add a link entry in the left menu, use the following command to import
