@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "song",
-            "email": "zosong@126.com"
+            "name": "Jurii",
+            "email": "aleksjurii@gmail.com"
         }
     ],
     "require": {
@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Fotobank\\PHPInfo\\": "src/"
+            "Alex\\PHPInfo\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Fotobank\\PHPInfo\\PHPInfoServiceProvider"
+                "Alex\\PHPInfo\\PHPInfoServiceProvider"
             ]
 
         }
