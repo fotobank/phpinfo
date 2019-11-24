@@ -1,6 +1,6 @@
 <?php
 
-namespace Alex\PHPInfo;
+namespace Encore\PHPInfo;
 
 use Illuminate\Support\ServiceProvider;
 
