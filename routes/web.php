@@ -1,7 +1,7 @@
 <?php
 
-use Fotobank\Admin\Layout\Content;
-use Fotobank\PHPInfo\PHPInfo;
+use Alex\Admin\Layout\Content;
+use Alex\PHPInfo\PHPInfo;
 
 $path = PHPInfo::config('path', 'phpinfo');
 
