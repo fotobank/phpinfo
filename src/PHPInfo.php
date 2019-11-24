@@ -1,8 +1,8 @@
 <?php
 
-namespace Alex\PHPInfo;
+namespace Encore\PHPInfo;
 
-use Alex\Admin\Extension;
+use Encore\Admin\Extension;
 
 class PHPInfo extends Extension
 {
