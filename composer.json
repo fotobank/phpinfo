@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Alex\\PHPInfo\\": "src/"
+            "Encore\\PHPInfo\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Alex\\PHPInfo\\PHPInfoServiceProvider"
+                "Encore\\PHPInfo\\PHPInfoServiceProvider"
             ]
 
         }
