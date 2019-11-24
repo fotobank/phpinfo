@@ -2,7 +2,7 @@
 
 namespace Alex\PHPInfo;
 
-use Encore\Admin\Extension;
+use Alex\Admin\Extension;
 
 class PHPInfo extends Extension
 {
