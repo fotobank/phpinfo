@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/phpinfo",
+    "name": "fotobank/phpinfo",
     "description": "Show php information in laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "phpinfo"],
-    "homepage": "https://github.com/laravel-admin-ext/phpinfo",
+    "homepage": "https://github.com/fotobank/phpinfo",
     "license": "MIT",
     "authors": [
         {
@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Encore\\PHPInfo\\": "src/"
+            "Alex\\PHPInfo\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Encore\\PHPInfo\\PHPInfoServiceProvider"
+                "Alex\\PHPInfo\\PHPInfoServiceProvider"
             ]
 
         }
