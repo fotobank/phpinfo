@@ -1,7 +1,7 @@
 <?php
 
-use Encore\Admin\Layout\Content;
-use Encore\PHPInfo\PHPInfo;
+use Fotobank\Admin\Layout\Content;
+use Fotobank\PHPInfo\PHPInfo;
 
 $path = PHPInfo::config('path', 'phpinfo');
 
