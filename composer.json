@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Alex\\PHPInfo\\": "src/"
+            "Fotobank\\PHPInfo\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Alex\\PHPInfo\\PHPInfoServiceProvider"
+                "Fotobank\\PHPInfo\\PHPInfoServiceProvider"
             ]
 
         }
